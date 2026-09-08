@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ubaidslab/automated-employee-appreciation-milestone-bot/actions/workflows/ci.yml"><img src="https://github.com/ubaidslab/automated-employee-appreciation-milestone-bot/actions/workflows/ci.yml/badge.svg" alt="CI status"></a>
+  <a href="https://github.com/ubaidslab/Automated-Employee-Appreciation-Milestone-Bot/actions/workflows/ci.yml"><img src="https://github.com/ubaidslab/Automated-Employee-Appreciation-Milestone-Bot/actions/workflows/ci.yml/badge.svg" alt="CI status"></a>
   <img src="https://img.shields.io/badge/Next.js-14-black?logo=next.js" alt="Next.js 14">
   <img src="https://img.shields.io/badge/TypeScript-strict-blue?logo=typescript" alt="TypeScript strict">
   <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT license">
@@ -110,8 +110,8 @@ admin actions call through it, so they can't drift out of sync with each other.
 **Prerequisites:** Node.js 18.18+ (Node 22 recommended), npm.
 
 ```bash
-git clone https://github.com/ubaidslab/automated-employee-appreciation-milestone-bot.git
-cd automated-employee-appreciation-milestone-bot
+git clone https://github.com/ubaidslab/Automated-Employee-Appreciation-Milestone-Bot.git
+cd Automated-Employee-Appreciation-Milestone-Bot
 npm install
 cp .env.example .env.local   # fill in ADMIN_KEY and SESSION_SECRET at minimum — see below
 npm run db:seed              # creates local.db and seeds realistic fake employees

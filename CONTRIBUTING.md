@@ -2,7 +2,7 @@
 
 Contributions are welcome. To contribute:
 
-1. **[Fork](https://github.com/ubaidslab/automated-employee-appreciation-milestone-bot/fork) the repository.**
+1. **[Fork](https://github.com/ubaidslab/Automated-Employee-Appreciation-Milestone-Bot/fork) the repository.**
 
 2. **Create a new branch:**
    ```bash
@@ -23,4 +23,4 @@ Contributions are welcome. To contribute:
    git push origin feature/your-feature-name
    ```
 
-5. **Open a [pull request](https://github.com/ubaidslab/automated-employee-appreciation-milestone-bot/pulls)** describing what changed and why.
+5. **Open a [pull request](https://github.com/ubaidslab/Automated-Employee-Appreciation-Milestone-Bot/pulls)** describing what changed and why.
