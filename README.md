@@ -164,6 +164,11 @@ npm run build       # production build
 
 All four run in CI on every push and pull request to `main`.
 
+**Testing this yourself:** see [`docs/TESTING_GUIDE.md`](./docs/TESTING_GUIDE.md) for a full,
+concrete walkthrough — exactly what the seed data contains, how to see milestone detection,
+message generation, and Slack delivery all fire for real, and what does (and doesn't) need a
+real Slack webhook or AI provider key.
+
 ## Project structure
 
 ```
